@@ -35,7 +35,7 @@ public class Pregunta {
         preguntas.add(new Pregunta("¿Cuál es la capital de Francia?",
                                     List.of("París", "Madrid", "Londres", "Roma"),
                                     0));
-        // Puedes agregar más preguntas aquí
+        
         return preguntas;
     }
 }
